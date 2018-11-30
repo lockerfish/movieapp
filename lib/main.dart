@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 import 'package:transparent_image/transparent_image.dart';
-import 'api/Movie.dart';
+import 'api/movie.dart';
 
 // void main() => runApp(MyApp());
 void main() async {
